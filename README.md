@@ -51,7 +51,7 @@ I am a results-driven **Data Analyst** with a solid foundation in **Electrical &
 * **Outcome:** Identified engagement trends and campaign effectiveness to support marketing decision-making.
 
 #### 📈 [Sales Performance Analytics](https://github.com/neerajk1204)
-* **Tech:** MySQL, Python.
+* **Tech:** Excel,Power BI, Powery Query Editor
 * **Outcome:** Tracked KPIs including revenue trends and product performance using advanced SQL queries.
 
 ---
