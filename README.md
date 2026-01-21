@@ -17,7 +17,7 @@ I am a results-driven **Data Analyst** with a solid foundation in **Electrical &
 
 - 🔭 **Goal:** Seeking to contribute to data-driven decision-making in a dynamic organization.
 - ⚡ **Engineering Edge:** Skilled in testing and performance analysis of electrical systems.
-- 🌱 **Learning:** Currently advancing in **Predictive Modelling** and **Big Data** tools.
+- 🌱 **Learning:** Currently advancing in **Predictive Modelling** .
 - 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/neeerajk/) | neerajchachuk@gmail.com
 
 ---
