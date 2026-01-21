@@ -13,48 +13,48 @@
 ---
 
 ### 🚀 Professional Summary
-[cite_start]I am a results-driven **Data Analyst** with a solid foundation in **Electrical & Electronics Engineering**. [cite_start]I specialize in transforming complex data into actionable insights through data cleaning, statistical analysis, and high-impact interactive dashboards[cite: 5]. 
+I am a results-driven **Data Analyst** with a solid foundation in **Electrical & Electronics Engineering**. I specialize in transforming complex data into actionable insights through data cleaning, statistical analysis, and high-impact interactive dashboards. 
 
-- [cite_start]🔭 **Current Goal:** Seeking to contribute to data-driven decision-making in a dynamic organization[cite: 6].
-- [cite_start]⚡ **Engineering Edge:** Background in testing and performance analysis of electrical systems[cite: 39, 41].
-- [cite_start]🌱 **Learning:** Currently advancing in **Predictive Modelling** and **Big Data** tools[cite: 9].
-- [cite_start]📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/neeerajk/) | neerajchachuk@gmail.com [cite: 2]
+- 🔭 **Current Goal:** Seeking to contribute to data-driven decision-making in a dynamic organization.
+- ⚡ **Engineering Edge:** Background in testing and performance analysis of electrical systems.
+- 🌱 **Learning:** Currently advancing in **Predictive Modelling** and **Big Data** tools.
+- 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/neeerajk/) | neerajchachuk@gmail.com
 
 ---
 
 ### 🛠 Technical Toolkit
 
-[cite_start]**Programming & Database Management** [cite: 8]
+**Programming & Database Management**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb&theme=dark" /> 
 </p>
-[cite_start]*Proficient in Python (Pandas, NumPy, Matplotlib, Seaborn) and SQL[cite: 8].*
+*Proficient in Python (Pandas, NumPy, Matplotlib, Seaborn) and SQL.*
 
-[cite_start]**Data Visualization & Analytics** [cite: 8, 9]
+**Data Visualization & Analytics**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=powerbi,excel&theme=dark" />
 </p>
-[cite_start]*Skilled in DAX, Power Query, Exploratory Data Analysis (EDA), and Statistical Analysis[cite: 8, 9].*
+*Skilled in DAX, Power Query, Exploratory Data Analysis (EDA), and Statistical Analysis.*
 
 ---
 
 ### 📂 Key Projects
 
-#### [cite_start]📈 [Sales Performance Dashboard](https://github.com/neerajk1204) [cite: 12]
-* [cite_start]**Tech:** Power BI, DAX[cite: 12].
-* [cite_start]**Impact:** Designed an interactive dashboard for revenue and regional trends, improving data refresh efficiency by **40%**[cite: 14, 16].
+#### 📈 [Sales Performance Dashboard](https://github.com/neerajk1204)
+* **Tech:** Power BI, DAX.
+* **Impact:** Designed an interactive dashboard for revenue and regional trends, improving data refresh efficiency by **40%**.
 
-#### [cite_start]📱 [Social Media Marketing Trend Analysis](https://github.com/neerajk1204) [cite: 17]
-* [cite_start]**Tech:** Python (Jupyter Notebook), Matplotlib, Seaborn[cite: 17, 18].
-* [cite_start]**Impact:** Conducted end-to-end analysis to identify engagement trends and campaign effectiveness[cite: 18, 21].
+#### 📱 [Social Media Marketing Trend Analysis](https://github.com/neerajk1204)
+* **Tech:** Python (Jupyter Notebook), Matplotlib, Seaborn.
+* **Impact:** Conducted end-to-end analysis to identify engagement trends and campaign effectiveness.
 
 ---
 
 ### 🎓 Education & Certifications
-* **B.Tech in Electrical & Electronics Engineering** | [cite_start]CUSAT[cite: 23, 24].
-* **Data Analytics** | [cite_start]Illinois Tech University[cite: 28].
-* **Google Data Analytics** | [cite_start]Professional Certificate[cite: 32].
-* **Business Analysis & Process Management** | [cite_start]Certified[cite: 35, 36].
+* **B.Tech in Electrical & Electronics Engineering** | CUSAT.
+* **Data Analytics** | Illinois Tech University.
+* **Google Data Analytics** | Professional Certificate.
+* **Business Analysis & Process Management** | Certified.
 
 ---
 
