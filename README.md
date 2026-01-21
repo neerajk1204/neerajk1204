@@ -22,7 +22,7 @@ Customized with: Python (Pandas, NumPy, Matplotlib, Seaborn), R, and SQ.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=powerbi,excel&theme=dark" />
 </p>
-Customized with: DAX, Power Query, and Advanced Excel[cite: 8].
+Customized with: DAX, Power Query, and Advanced Excel.
 
 ---
 
