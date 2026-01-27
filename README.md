@@ -1,4 +1,4 @@
-# Hi there! I'm Neeraj K 👋
+# Hi ! I'm Neeraj K 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=NEERAJ%20K&fontSize=70&animation=fadeIn" />
