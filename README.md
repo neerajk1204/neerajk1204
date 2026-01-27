@@ -11,7 +11,6 @@
 </p>
 
 ---
-
 ### 🚀 Professional Summary
 I am a results-driven **Data Analyst** with a solid foundation in **Electrical & Electronics Engineering**. I specialize in transforming complex data into actionable insights through data cleaning, statistical analysis, and exploratory data analysis (EDA). 
 
